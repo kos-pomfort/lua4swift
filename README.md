@@ -64,6 +64,7 @@ stringx.split('hello world', ' ')  -- returns {"hello", "world"}
 > Released under MIT license.
 >
 > Copyright (c) 2015 Steven Degutis
+> Copyright (c) 2024 Konstantin Silbermann
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
